@@ -1,0 +1,29 @@
+{
+    "gemini_pro_api_key":["YOUR_API_KEY_0","YOUR_API_KEY_1"],
+    "safety_setting":[
+        {
+            "category": "HARM_CATEGORY_DANGEROUS",
+            "threshold": "BLOCK_NONE"
+        },
+        {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "threshold": "BLOCK_NONE"
+        },
+        {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "threshold": "BLOCK_NONE"
+        },
+        {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "threshold": "BLOCK_NONE"
+        },
+        {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "threshold": "BLOCK_NONE"
+        }
+    ],
+    "stable_diffusion_api_key":["YOUR_API_KEY_0"],
+    "extra_keys":["YOUR_API_KEY_1","YOUR_API_KEY_2"]
+   
+    
+}
